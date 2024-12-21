@@ -14,7 +14,7 @@ An interactive Scratch game where players navigate a dense forest, solve puzzles
 4. Solve puzzles and find the way out of the forest!
 
 ## 📷 Screenshots
-![Gameplay Screenshot](./images/gameplay.png)
+![Gameplay Screenshot](./gameplay.png)
 
 ## 📂 File Structure
 - `Escape the Forest.sb3` - Main project file.
