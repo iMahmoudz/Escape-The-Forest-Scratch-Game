@@ -18,7 +18,7 @@ An interactive Scratch game where players navigate a dense forest, solve puzzles
 
 ## 📂 File Structure
 - `Escape the Forest.sb3` - Main project file.
-- `/images` - Folder containing screenshots.
+- `gameplay.png` - Game screenshot.
 
 ## 🛠️ How It Works
 This project was created using [Scratch](https://scratch.mit.edu/), a visual programming language for creating interactive projects.
@@ -28,4 +28,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## 🙌 Acknowledgments
 - Thanks to the Scratch community for inspiration.
-- Created by [Your Name].
+- Created by Mahmoud Salah.
